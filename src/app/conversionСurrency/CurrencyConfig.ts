@@ -1,0 +1,1 @@
+export const CURRENCY_CONFIG = [  {    inputName: 'inputControlFirst',    selectName: 'selectControlFirst'  },  {    inputName: 'inputControlLast',    selectName: 'selectControlLast'  }]

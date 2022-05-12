@@ -1,0 +1,1 @@
+.container {  display: flex;  justify-content: center;  padding-top: 100px;}.row {  display: flex;  flex-direction: column;}.mat__with {  padding-left: 20px;  max-width: 100px;}
